@@ -2,7 +2,7 @@
 This project aims to perform exploratory data analysis (EDA) and visualization on the IPL 2022 dataset obtained from Kaggle. The dataset contains information about matches, players, teams, and various statistics related to the Indian Premier League (IPL) cricket tournament.<br>
 
 <h3>Dataset</h3>
-The dataset used in this project IPL 2022.csv is sourced from Kaggle and contains the following:<br>
+The dataset used in this project IPL 2022.csv is sourced from Kaggle [https://www.kaggle.com/datasets/aravindas01/ipl-2022dataset] and contains the following:<br>
 
 match_id,	date,	venue,	team1,	team2,	stage,	toss_winner,	toss_decision,	first_ings_score,	first_ings_wkts,	second_ings_score,	second_ings_wkts,	match_winner,	won_by,	margin,	player_of_the_match,	top_scorer,	highscore,	best_bowling,	best_bowling_figure.<br>
 The dataset is cleaned and prepared using the Pandas library to ensure data quality and consistency before performing analysis and visualization.<br>
