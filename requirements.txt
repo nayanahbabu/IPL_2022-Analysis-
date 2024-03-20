@@ -1,5 +1,5 @@
-pandas<br>
-matplotlib<br>
-seaborn<br>
-plotly<br>
+pandas
+matplotlib
+seaborn
+plotly
 
