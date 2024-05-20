@@ -9,7 +9,6 @@ The dataset is cleaned and prepared using the Pandas library to ensure data qual
 
 <h3>Tools and Libraries Used</h3><br>
 The project utilizes the following tools and Python libraries:<br>
-
 Pandas: For data manipulation, cleaning, and preparation.<br>
 Matplotlib: For creating basic plots and visualizations.<br>
 Seaborn: For creating more advanced statistical visualizations.<br>
